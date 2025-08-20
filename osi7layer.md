@@ -21,4 +21,4 @@ Setiap lapisan punya fungsi masing-masing agar komunikasi bisa berjalan lancar.
 
 ## 📌 Diagram OSI 7 Layer
 
-![Diagram OSI 7 Layer](img/osi.png)
+![Diagram OSI 7 Layer]img/osi.png
